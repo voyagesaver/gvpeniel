@@ -11,7 +11,7 @@
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
-        "dangerColor": "#d7c6a3",
+        "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": 4.25,
@@ -27,9 +27,7 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": [
-        "#d7c6a3"
-      ]
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
@@ -74,7 +72,7 @@
               "font-style": "italic"
             },
             "H1": {
-              "color": "#d7c6a3"
+              "color": "#b1a374"
             },
             "P": {
               "color": "#232323"
