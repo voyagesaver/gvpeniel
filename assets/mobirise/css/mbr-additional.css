@@ -135,7 +135,7 @@ body {
   background-color: #e4d295 !important;
 }
 .bg-success {
-  background-color: #ffffff !important;
+  background-color: #eac79a !important;
 }
 .bg-info {
   background-color: #ffffff !important;
@@ -168,23 +168,23 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #e4d295 !important;
-  border-color: #e4d295 !important;
-  color: #615119 !important;
+  background-color: #d1b597 !important;
+  border-color: #d1b597 !important;
+  color: #ffffff !important;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
 .btn-secondary.focus,
 .btn-secondary.active {
-  color: #615119 !important;
-  background-color: #d4b858 !important;
-  border-color: #d4b858 !important;
+  color: #ffffff !important;
+  background-color: #ba8f62 !important;
+  border-color: #ba8f62 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
-  color: #615119 !important;
-  background-color: #d4b858 !important;
-  border-color: #d4b858 !important;
+  color: #ffffff !important;
+  background-color: #ba8f62 !important;
+  border-color: #ba8f62 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -208,23 +208,23 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
-  color: #808080 !important;
+  background-color: #eac79a !important;
+  border-color: #eac79a !important;
+  color: #6e4817 !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus,
 .btn-success.active {
-  color: #808080 !important;
-  background-color: #d9d9d9 !important;
-  border-color: #d9d9d9 !important;
+  color: #6e4817 !important;
+  background-color: #dda45b !important;
+  border-color: #dda45b !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #808080 !important;
-  background-color: #d9d9d9 !important;
-  border-color: #d9d9d9 !important;
+  color: #6e4817 !important;
+  background-color: #dda45b !important;
+  border-color: #dda45b !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -332,22 +332,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #cfaf44;
-  color: #cfaf44;
+  border-color: #b28350;
+  color: #b28350;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
-  color: #615119;
-  background-color: #e4d295;
-  border-color: #e4d295;
+  color: #ffffff;
+  background-color: #d1b597;
+  border-color: #d1b597;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
-  color: #615119 !important;
-  background-color: #e4d295 !important;
-  border-color: #e4d295 !important;
+  color: #ffffff !important;
+  background-color: #d1b597 !important;
+  border-color: #d1b597 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -372,22 +372,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #cccccc;
-  color: #cccccc;
+  border-color: #d89846;
+  color: #d89846;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #808080;
-  background-color: #ffffff;
-  border-color: #ffffff;
+  color: #6e4817;
+  background-color: #eac79a;
+  border-color: #eac79a;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #808080 !important;
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
+  color: #6e4817 !important;
+  background-color: #eac79a !important;
+  border-color: #eac79a !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -467,10 +467,10 @@ body {
   color: #e4d295 !important;
 }
 .text-secondary {
-  color: #e4d295 !important;
+  color: #d1b597 !important;
 }
 .text-success {
-  color: #ffffff !important;
+  color: #eac79a !important;
 }
 .text-info {
   color: #ffffff !important;
@@ -493,11 +493,11 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #cfaf44 !important;
+  color: #b28350 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #cccccc !important;
+  color: #d89846 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
